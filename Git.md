@@ -94,3 +94,6 @@ $ git reflog
 
 2.要想回到未来，需要使用git reflog 进行历史操作查看，得到最新的commit id
 
+## 两种常规使用方式
+1.基于http协议
+2.基于SSH协议
